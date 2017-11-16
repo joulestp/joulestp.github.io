@@ -1,0 +1,38 @@
+
+body {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-family: Verdana;
+  font-size: 50px
+  text-align:center;
+}
+
+h3 {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+Video {
+
+}
+
+h2 {
+  color: White;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+img {
+  display: inline-block center;
+}
+
+#copyright {
+  color: grey;
+  text-align: right;
+}
